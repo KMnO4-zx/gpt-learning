@@ -8,7 +8,7 @@
 
 ## 目录
 
-[1.提示原则 Guidelines.ipynb](./吴恩达_prompt_学习笔记/1.提示原则 Guidelines.ipynb)
+[1.提示原则 Guidelines.ipynb]([./吴恩达_prompt_学习笔记/1.提示原则 Guidelines.ipynb](https://github.com/KMnO4-zx/gpt-learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BE_prompt_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/1.%E6%8F%90%E7%A4%BA%E5%8E%9F%E5%88%99%20Guidelines.ipynb))
 
 [2.迭代优化 Iterative.ipynb](./吴恩达_prompt_学习笔记/2.迭代优化 Iterative.ipynbb)
 
