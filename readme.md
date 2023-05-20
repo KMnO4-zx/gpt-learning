@@ -6,6 +6,14 @@
 
 一些觉得好玩的prompt，当然用到chatgpt也是没有问题。
 
+## 目录
+
+[1.提示原则 Guidelines.ipynb](./吴恩达_prompt_学习笔记/1.提示原则 Guidelines.ipynb)
+
+[2.迭代优化 Iterative.ipynb](./吴恩达_prompt_学习笔记/2.迭代优化 Iterative.ipynbb)
+
+[3.文本概括 Summarizing.ipynb](./吴恩达_prompt_学习笔记/3.文本概括 Summarizing.ipynb)
+
 ## 代码大师
 
 ```python
