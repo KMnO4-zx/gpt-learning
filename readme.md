@@ -2,7 +2,7 @@
 
 使用chatglm-6b的模型api完成吴恩达prompt课程，在学习笔记中有与chatgpt的回答做一些比较。课程内容采用的是DataWhale的中文翻译教程。[课程地址](https://github.com/datawhalechina/prompt-engineering-for-developers.git)
 
-# chatglm demo
+# prompt demo
 
 一些觉得好玩的prompt，当然用到chatgpt也是没有问题。
 
@@ -18,7 +18,6 @@
 
 ```python
 def code_master(code):
-    # text=f"""std::vector<int> v = {2, 15, 1, 8, 3};"""
     prompt = f"""
     我希望你能充当代码解释者，帮我阐明下面三个引号括起来的代码的语法和语义。使用markdown格式回复我。\。
     \"\"\"{code}\"\"\"
