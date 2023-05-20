@@ -10,7 +10,6 @@
 
 ```python
 def code_master(code):
-    # text=f"""std::vector<int> v = {2, 15, 1, 8, 3};"""
     prompt = f"""
     我希望你能充当代码解释者，帮我阐明下面三个引号括起来的代码的语法和语义。使用markdown格式回复我。\。
     \"\"\"{code}\"\"\"
