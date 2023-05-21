@@ -2,6 +2,20 @@
 
 使用chatglm-6b的模型api完成吴恩达prompt课程，在学习笔记中有与chatgpt的回答做一些比较。课程内容采用的是DataWhale的中文翻译教程。[课程地址](https://github.com/datawhalechina/prompt-engineering-for-developers.git)
 
+[提示原则](吴恩达_prompt_学习笔记/1.提示原则 Guidelines.ipynb)
+
+[迭代优化](吴恩达_prompt_学习笔记/2.迭代优化 Iterative.ipynb)
+
+[文本概括](吴恩达_prompt_学习笔记/3.文本概括 Summarizing.ipynb)
+
+[推断](吴恩达_prompt_学习笔记/4. 推断 Inferring_.ipynb)
+
+[文本转换](吴恩达_prompt_学习笔记/5. 文本转换 Transforming.ipynb)
+
+[文本扩展](吴恩达_prompt_学习笔记/6. 文本扩展 Expanding.ipynb)
+
+[聊天机器人](吴恩达_prompt_学习笔记/7. 聊天机器人 Chatbot.ipynb)
+
 # prompt demo
 
 一些觉得好玩的prompt，当然用到chatgpt也是没有问题。
